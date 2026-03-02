@@ -1,20 +1,4 @@
-Open the 'assignment 2' folder
 
-Question 1
-Change direcory to Feature_Matching_Correspondence folder and run the python file
-
-cd Feature_Matching_Correspondence
-starter_code_feature.py
-
-Output contains images referenced in the write up and P3_result.txt which contains the depth information for the testing set and P3_result_train.txt for the training set
-
-• Question 2
-Change direcory to Point_Cloud_Registration folder and run the python file
-
-cd Point_Cloud_Registration
-starter_code_registration.py
-
-Ouput contains plots, which are included in the write up
 
 ## Project Overview
 
